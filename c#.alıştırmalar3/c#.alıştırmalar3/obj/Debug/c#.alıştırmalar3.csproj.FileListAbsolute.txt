@@ -1,0 +1,7 @@
+C:\Users\ahmet\source\repos\c#.alıştırmalar3\c#.alıştırmalar3\obj\Debug\c#.alıştırmalar3.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\c#.alıştırmalar3\c#.alıştırmalar3\obj\Debug\c#.alıştırmalar3.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\c#.alıştırmalar3\c#.alıştırmalar3\bin\Debug\c#.alıştırmalar3.exe.config
+C:\Users\ahmet\source\repos\c#.alıştırmalar3\c#.alıştırmalar3\bin\Debug\c#.alıştırmalar3.exe
+C:\Users\ahmet\source\repos\c#.alıştırmalar3\c#.alıştırmalar3\bin\Debug\c#.alıştırmalar3.pdb
+C:\Users\ahmet\source\repos\c#.alıştırmalar3\c#.alıştırmalar3\obj\Debug\c#.alıştırmalar3.exe
+C:\Users\ahmet\source\repos\c#.alıştırmalar3\c#.alıştırmalar3\obj\Debug\c#.alıştırmalar3.pdb
